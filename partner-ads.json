@@ -1,12 +1,14 @@
 [
   {
     "title": "Promoção Ark-Services",
-    "description": "Acesse nosso marketplace e descubra ofertas exclusivas.",
+    "description": "Discover exclusive systems, 3D models, maps, and premium game assets.",
     "url": "https://arkwork.shop/marketplace"
+    "expiresAt": 1903948136
   },
   {
     "title": "Promoção ArionGames",
     "description": "Veja ofertas premium e produtos em destaque.",
     "url": "https://mt2arion.com"
+    "expiresAt": 1746307200
   }
 ]
